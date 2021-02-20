@@ -1,2 +1,2 @@
-# Income_-classification
+# Income_classification
 Income Classification using Python library's
